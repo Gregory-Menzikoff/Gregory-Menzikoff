@@ -5,11 +5,11 @@ J'ai choisi de quitter la radiation ☢️ pour la programmation 🖥️, pour q
 
 Voici les différents langages acquis :
 
-| Frontend | Backend |
+| FRONTEND | BACKEND |
 | :----------- | :----------- |
 | HTML 5 | Node.js |
 | CSS3 | ProstgreSQL |
-| Javascript | / |
+| Javascript |  |
 
 
 
